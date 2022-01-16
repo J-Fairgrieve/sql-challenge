@@ -7,15 +7,6 @@ The challenge highlights the following skills:
  - Data modelling & data engineering
  - Data analysis
 
-## Created Images
 Entity Relationship Diagram (ERD):
 
 ![ERD](https://github.com/J-Fairgrieve/sql-challenge/blob/main/images/ERD.png)
-
-Salary Histogram:
-
-![Salary Histogram](https://github.com/J-Fairgrieve/sql-challenge/blob/main/images/salary-histogram.png)
-
-Average Salary by Job Type:
-
-![Average Salary](https://github.com/J-Fairgrieve/sql-challenge/blob/main/images/average-salary.png)
